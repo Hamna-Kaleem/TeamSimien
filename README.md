@@ -110,6 +110,5 @@ access is required to download `BAAI/bge-reranker-base`.
 
 ## Appendix
 
-**Team / Contributors:** _<add team member names and roles here>_
+**Team / Contributors:** _<Hamna Kaleem, Kamaya Ndigwa Espérance Martine>_
 
-**Mentors:** _<add mentor name(s) here>_
